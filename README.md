@@ -30,5 +30,9 @@ Exemplo Pull:
 
 Exemplo fetch 
 
-1 - Atualizando o branch na web (pçrint_10)
+1 - Atualizando o branch na web (print_10)
 2 - comando git fecht Atualiza apenas o repositório remoto  (print_10)
+
+Exemplo checkout
+
+1 - git checkout para pegar os arquivos de um branch e criar uma cópia no repositório local. (Print_11)
