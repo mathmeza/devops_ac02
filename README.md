@@ -1,5 +1,3 @@
-# devops_ac02
-
 Nome: Matheus Meza de Oliveira / RA: 1903588
 
 Exemplo Clone:
